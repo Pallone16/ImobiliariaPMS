@@ -1,0 +1,59 @@
+{
+  "PRODUTOS": [
+    {
+      "nome": "Apartamento",
+      "transacao": "Aluguel",
+      "tipo": "Litoral",
+      "id": 1
+    },
+    {
+      "nome": "Casa",
+      "transacao": "Venda",
+      "tipo": "Rural",
+      "id": 2
+    },
+    {
+      "nome": "Loja",
+      "transacao": "Anuncio",
+      "tipo": "Urbano",
+      "id": 3
+    },
+    {
+      "nome": "Loft",
+      "transacao": "Aluguel",
+      "tipo": "Urbano",
+      "id": 4
+    }
+  ],
+  "CLIENTES": [
+    {
+      "nome": "Cliente1",
+      "Profissao": "Corretor",
+      "id": 1
+    },
+    {
+      "nome": "Cliente2",
+      "Profissao": "Engenheiro",
+      "id": 2
+    },
+    {
+      "nome": "Cliente3",
+      "Profissao": "Servidor Publico",
+      "id": 3
+    }
+  ],
+  "ESTADOSSUDESTE": [
+    {
+      "nome": "Minas Gerais",
+      "id": 2
+    },
+    {
+      "nome": "Rio de Janeiro",
+      "id": 3
+    },
+    {
+      "nome": "Sao Paulo",
+      "id": 4
+    }
+  ]
+}
